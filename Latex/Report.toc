@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Binding energy of Uranium}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Binding energy for U-238 and U-235}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Stability analysis}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Fission of Uranium}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Calculation of binding energies}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fission viability}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Energy released}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Comparisson of energies}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Comparison of energies}{4}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Conclussions}{5}{section.3}%
